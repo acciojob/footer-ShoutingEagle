@@ -5,7 +5,7 @@
 }
 
 .icons{
-	width:20px;
+	width:30px;
 }
 
 .flex{
@@ -14,7 +14,38 @@
 	
 }
 
-.links{
-	text-decoration:underline;
+.links ul li a{
+	color:white;
+	text-decoration:none;
 }
 
+
+.content{
+	background-color:black;
+	color:white;
+	
+}
+
+.top{
+	display:flex;
+	justify-content:center;
+	gap:60%;
+	padding:20px;
+}
+
+.bottom-details{
+	display:flex;
+	background-color:grey;
+	justify-content:center;
+	gap:60%;
+	padding:20px;
+	color:white;
+}
+
+.logo_name{
+	font-size:30px;	
+}
+
+.links-list{
+		
+}
