@@ -51,6 +51,10 @@
 	font-size:30px;	
 }
 
-.links-list{
-		
+.media-icons{
+	display:flex;
+}
+
+.link--boxes{
+	display:flex;
 }
