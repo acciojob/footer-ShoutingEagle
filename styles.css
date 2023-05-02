@@ -17,6 +17,11 @@
 .links ul li a{
 	color:white;
 	text-decoration:none;
+	
+}
+
+.links ul {
+	list-style:none;
 }
 
 
